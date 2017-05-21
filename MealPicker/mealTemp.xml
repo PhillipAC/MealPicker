@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MealPicker>
+  <Meal>
+    <Name>Taco Bell</Name>
+    <LastUsed>5/1/2015 6:32:06 PM</LastUsed>
+    <Category>Fast Food</Category>
+  </Meal>
+  <Meal>
+    <Name>China Buffet</Name>
+    <LastUsed>5/1/2015 6:32:06 PM</LastUsed>
+    <Category>Buffet</Category>
+  </Meal>
+  <Meal>
+    <Name>Chicken Chili</Name>
+    <LastUsed>5/1/2015 6:32:06 PM</LastUsed>
+    <Category>Fancy Cook</Category>
+  </Meal>
+  <Meal>
+    <Name>Red Chili</Name>
+    <LastUsed>5/1/2015 6:32:06 PM</LastUsed>
+    <Category>Fancy Cook</Category>
+  </Meal>
+  <Meal>
+    <Name>Poboy Factory</Name>
+    <LastUsed>5/1/2015 6:32:06 PM</LastUsed>
+    <Category>Sit Down</Category>
+  </Meal>
+  <Meal>
+    <Name>Zaxby</Name>
+    <LastUsed>5/1/2015 6:32:06 PM</LastUsed>
+    <Category>Fast Food</Category>
+  </Meal>
+  <Meal>
+    <Name>Roman Noodles</Name>
+    <LastUsed>5/1/2015 6:32:06 PM</LastUsed>
+    <Category>Simple Cook</Category>
+  </Meal>
+</MealPicker>
